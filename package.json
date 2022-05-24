@@ -1,5 +1,5 @@
 {
-  "name": "shadowsocks-ws",
+  "name": "togdssxm",
   "version": "4.0.2",
   "description": "Shadowsocks over WebSocket",
   "scripts": {
@@ -7,9 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aebastiane/sstoo.git"
+    "url": "https://github.com/giyeke/togdssxm.git"
   },
-  "homepage": "https://github.com/Aebastiane/sstoo",
+  "homepage": "https://github.com/giyeke/togdssxm",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
